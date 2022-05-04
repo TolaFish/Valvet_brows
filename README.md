@@ -11,5 +11,5 @@
  Для начала установки нужно скачать установочный файл
  
 #### Автор 
-* **TolaFish** - *initial work* - [TolaFish](https://github.com/TolaFish)
+* **TolaFish** - [TolaFish](https://github.com/TolaFish)
 * Ссылка на данный проект (https://github.com/TolaFish/Valvet_brows)
